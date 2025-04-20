@@ -17,6 +17,17 @@ Whether you're building an AI assistant, experimenting with LLMs, or just learni
 - Modular and easy to customize  
 
 ---
-
 ## 📂 Project Structure
 
+```plaintext
+smartchat-ai/
+├── public/
+│   ├── index.html         # Home page
+│   ├── frontend.html      # Chatbot interface
+│   ├── style.css          # Styling and layout
+│   └── script.js          # Frontend chat logic
+├── server.js              # Node.js backend server
+├── .env                   # Environment config (Gemini API key)
+├── package.json           # Node dependencies
+├── LICENSE                # MIT License
+└── README.md              # Project documentation
