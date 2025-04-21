@@ -78,3 +78,38 @@ node server.js
 
 # 4. Open frontend.html in your browser
 ```
+---
+# 📊 Flowchart
+
+System logic is illustrated below to understand flow:
+
+![SmartChat Flowchart](./Assets/flowchart.png)
+
+---
+## 🧪 Testing
+
+- Unit and integration testing performed  
+- Test cases cover valid/invalid input, API responses, UI updates  
+- Manual browser testing on Chrome, Firefox, and Edge  
+---
+## 📌 Future Enhancements
+
+- Add voice input/output capabilities  
+- Save and export chat history  
+- User login and chat session storage  
+- Multi-language support  
+---
+## 🙋‍♂️ Authors
+
+- **Patil Kaushal Anandra** – Team Leader / Backend Developer  
+- **Tanksale Prathmesh Pandurang** – Frontend & UI/UX Designer  
+- **Patil Bhavesh Pravin** – Testing & Documentation  
+- **Nikam Akash Ravindra** – Research & Presentation  
+- **Javale Tushar Ashok** – Research & Presentation  
+
+**Guided By:** - Mr. S. D. Salunke  
+**Institution:** - Department of Computer Engineering, DGOI, Pune, Maharashtra, India
+---
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE)
