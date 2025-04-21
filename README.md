@@ -31,3 +31,50 @@ smartchat-ai/
 ├── package.json           # Node dependencies
 ├── LICENSE                # MIT License
 └── README.md              # Project documentation
+```
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js  
+- **AI Integration:** Gemini API  
+- **Tools:** Visual Studio Code, Lucidchart, Git, GitHub  
+
+---
+
+## 🧠 How It Works
+
+1. User starts chat session and inputs a message  
+2. Message is validated and displayed  
+3. Typing animation simulates bot "thinking"  
+4. Message is sent to Node.js backend  
+5. Backend forwards request to Gemini API  
+6. API response is sent back, typing animation is removed  
+7. Bot response is displayed with a timestamp  
+8. Auto-scroll ensures latest message is in view
+
+---
+
+## ⚙️ Installation & Running Locally
+
+### Prerequisites:
+- Node.js installed
+- Gemini API key (from Google AI Studio or appropriate platform)
+
+### Steps:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/SmartChat.git
+cd SmartChat
+
+# 2. Install backend dependencies
+npm install
+
+# 3. Start the Node.js server
+node server.js
+
+# 4. Open frontend.html in your browser
+```
