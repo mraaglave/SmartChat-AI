@@ -107,8 +107,8 @@ System logic is illustrated below to understand flow:
 - **Nikam Akash Ravindra** – Research & Presentation  
 - **Javale Tushar Ashok** – Research & Presentation  
 
-**Guided By:** - Mr. S. D. Salunke  
-**Institution:** - Department of Computer Engineering, DGOI, Pune, Maharashtra, India
+**Guided By** - Mr. S. D. Salunke  
+**Institution** - Department of Computer Engineering, DGOI, Pune, Maharashtra, India
 ---
 ## 📜 License
 
